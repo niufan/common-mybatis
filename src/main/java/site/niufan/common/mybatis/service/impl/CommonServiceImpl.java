@@ -1,7 +1,7 @@
 package site.niufan.common.mybatis.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import site.niufan.common.mybatis.dao.mapper.CommonMapper;
+import site.niufan.common.mybatis.dal.mapper.CommonMapper;
 import site.niufan.common.mybatis.service.CommonService;
 
 /**

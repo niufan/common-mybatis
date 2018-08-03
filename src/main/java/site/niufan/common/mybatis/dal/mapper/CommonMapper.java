@@ -1,4 +1,4 @@
-package site.niufan.common.mybatis.dao.mapper;
+package site.niufan.common.mybatis.dal.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
